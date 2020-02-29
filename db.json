@@ -1,0 +1,18 @@
+{
+  "customers": [
+    { "id": 1, "name": "Zeel", "age": "27", "sex": "Male" },
+    { "id": 2, "name": "Kavita", "age": "51", "sex": "Female" },
+    { "id": 3, "name": "Suresh", "age": "23", "sex": "Male" },
+    { "id": 4, "name": "Ramesh", "age": "42", "sex": "Male" },
+    { "id": 5, "name": "Mahesh", "age": "21", "sex": "Male" },
+    { "id": 6, "name": "Aldrin", "age": "31", "sex": "Female" }
+  ],
+  "addresses": [
+    { "id": 1, "address": "Marathalli", "custId": 1 },
+    { "id": 2, "address": "Koramangala", "custId": 1 },
+    { "id": 3, "address": "J P Nagar", "custId": 3 },
+    { "id": 4, "address": "Outer Ring Road", "custId": 4 },
+    { "id": 5, "address": "Embassy Tech Village", "custId": 5 },
+    { "id": 6, "address": "Ferns Petal", "custId": 6 }
+  ]
+}
